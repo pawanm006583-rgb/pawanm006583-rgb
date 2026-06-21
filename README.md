@@ -1,108 +1,269 @@
-# Pawan-Mishra
-Profile Status 
-<h1 align="center">Hi 👋, I'm Pawan Mishra</h1>
-<h3 align="center">🎓 Computer Science Student | 🤖 Aspiring AI/ML Engineer | 💻 Tech Enthusiast</h3>
+<div align="center">
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawanm006583-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=250&section=header&text=Pawan%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Full%20Stack%20%7C%20Hackathons&descAlignY=60" />
 </p>
 
----
+###  AI/ML Engineer in Progress • Full Stack Developer • Problem Solver
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Hackathon+Builder;Machine+Learning+Enthusiast;Learning+Something+New+Every+Day;Future+AI%2FML+Engineer" />
 
-- 🎓 Computer Science student passionate about **Artificial Intelligence & Machine Learning**
-- 🤖 Exploring how machines can **learn, think, and make decisions**
-- 🌱 Currently learning **Machine Learning, Data Science, Flask, HTML, CSS & JavaScript**
-- 💡 Love building **projects, mini tools & experiments**
-- 🎯 Goal: **Become a skilled AI/ML Engineer** and build impactful solutions
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=pawanm006583-rgb&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
 
-## 🧠 Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🤖 AI / ML (Learning)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🌌 Cyberpunk Developer Dashboard
 
-- 📌 Machine Learning Algorithms  
-- 📌 Data Structures & Algorithms  
-- 📌 Python for Data Science  
-- 📌 Flask for Backend Development  
+```yaml
+Name: Pawan Mishra
+
+Role: Student Developer
+
+Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+  - System Design
+
+Current Status:
+  Learning → Building → Improving
+
+Mission:
+  Build intelligent products that solve real-world problems.
+
+Power Level:
+  █████████░ 90%
+```
 
 ---
 
-## 🎯 My Goals
-
-- 🚀 Become a **Professional AI/ML Engineer**
-- 🧠 Master **Machine Learning & Deep Learning**
-- 🌍 Build **real-world AI applications**
-- 🏆 Participate in **Hackathons & Coding Competitions**
-- 🤝 Contribute to **Open Source Projects**
-
----
-
-## 📊 GitHub Stats
+# ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Commits-Growing-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML-orange?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,flask,git,github,vscode,tailwind&perline=12" />
+</p>
+
+##  About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+AI%2FML+Engineer;Full+Stack+Developer;Hackathon+Builder;Turning+Ideas+Into+Reality;Always+Learning+Something+New" />
+</p>
+
+Hi, I'm **Pawan Mishra** — a passionate Computer Science student who loves building technology, solving problems, and continuously learning new skills.
+
+ Exploring **Artificial Intelligence, Machine Learning, and Automation**
+
+ Building **Full Stack Applications** using modern technologies
+
+ Creating real-world projects and transforming ideas into impactful products
+
+ Participating in **Hackathons, Coding Challenges, and Tech Events**
+
+ Currently focused on **Data Structures & Algorithms, React, Backend Development, and AI/ML**
+
+ Learning by building, experimenting, and staying curious every day
+
+ Interested in **AI, FinTech, Web Development, and Emerging Technologies**
+
+ Goal: Become a skilled **AI/ML Engineer** and build innovative solutions that create real-world impact
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,git,github,vscode,tailwind&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-Python%20%7C%20ML%20%7C%20Flask-yellow?style=for-the-badge" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawanm006583-rgb&theme=tokyo-night&hide_border=true" />
+</p>
+
+> 💡 **"Just a developer chasing big goals, one project at a time."** 
+
+
+## 📈 Skill Progress
+
+```text
+DSA                ████████░░ 80%
+React              ████████░░ 80%
+JavaScript         ████████░░ 80%
+Node.js            ██████░░░░ 60%
+Machine Learning   █████░░░░░ 50%
+System Design      ███░░░░░░░ 30%
+```
+
+---
+
+#  Currently Building
+
+<table>
+<tr>
+<td width="50%">
+
+###  TrackIt AI
+
+AI-Powered Expense Tracking Platform
+
+✔ Smart Expense Analysis
+
+✔ Budget Prediction
+
+✔ Financial Health Score
+
+✔ Spending Insights
+
+✔ AI Recommendations
+
+</td>
+
+<td width="50%">
+
+###  Personal AI Assistant
+
+Building an AI assistant capable of:
+
+✔ Email Summarization
+
+✔ Smart Notifications
+
+✔ Productivity Insights
+
+✔ Personal Knowledge Base
+
+✔ Workflow Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔥 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%">
+
+###  TrackIt AI
+
+<img src="YOUR_TRACKIT_SCREENSHOT_LINK"/>
+
+AI-powered finance management platform with smart analytics and budgeting tools.
+
+</td>
+
+<td width="33%">
+
+### 🏋️ Fitness Tracker
+
+<img src="YOUR_FITNESS_TRACKER_SCREENSHOT_LINK"/>
+
+Modern React fitness application with workout and progress tracking.
+
+</td>
+
+<td width="33%">
+
+### 🌐 Portfolio Website
+
+<img src="YOUR_PORTFOLIO_SCREENSHOT_LINK"/>
+
+Personal portfolio showcasing projects, skills and achievements.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+#  2026 Goals
+
+* ✅ Master Data Structures & Algorithms
+* ✅ Build Production-Level AI Applications
+* ✅ Learn Deep Learning
+* ✅ Contribute to Open Source
+* ✅ Participate in 5+ Hackathons
+* ✅ Secure an AI/ML Internship
+* ✅ Launch My Own SaaS Product
+* ✅ Become a Professional AI Engineer
+
+---
+
+#  GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pawanm006583-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanm006583-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanm006583-rgb&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Consistency
+#  Contribution Snake
 
-> 💡 *I believe in learning and improving every single day.*  
-> 🚀 *Progress > Perfection*
-
-
-
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/pawanm006583-rgb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/pawan-mishra720" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+#  Achievement Mindset
 
-> **I don’t just use AI — I want to build it. 🤖🔥**
+```cpp
+while(!success)
+{
+    Learn();
+    Build();
+    Fail();
+    Improve();
+    Repeat();
+}
+```
+
+### Output
+
+```text
+Success....
+```
 
 ---
 
-### ⭐ If you like my work, consider giving a star — it motivates me a lot!
-Thanks for visiting my profile 😄🚀
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/pawanm006583-rgb">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pawan-mishra720">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Developer Philosophy
+
+> **"The best way to predict the future is to build it."**
+
+> **"Consistency beats talent when talent doesn't work hard."**
+
+---
+
+<div align="center">
+
+## ⭐ Thanks For Visiting My Profile
+
+###  Building Today For A Better Tomorrow
+
+</div>
